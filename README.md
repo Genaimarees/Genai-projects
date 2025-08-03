@@ -1,2 +1,1 @@
-myworkflow
-fgg
+hello from n8n!
