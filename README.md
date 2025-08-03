@@ -1,1 +1,1 @@
-hello from n8n!
+change the github commit changes display in discord"
